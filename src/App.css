@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: solid rgb(2, 66, 66);
+  background-color: color-mix(in srgb, rgb(255, 255, 255) 50%, rgb(66, 66, 205) 50%);
+}
+
+.Nombre{
+  color: rgb(55, 3, 90);
+}
+
+.Foto{
+  color: rgb(132, 15, 167);
+}
+
+.Edad{
+  color: rgb(60, 21, 201);
+}
+
+.Boton{
+  border: solid;
+}
